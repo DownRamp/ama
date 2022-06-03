@@ -18,8 +18,7 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
  - :memo: Use a succinct title and description.
  - :bug: Bugs & feature requests should be opened on the relevant issue tracker (i.e., on the issue tracker of the corresponding [Bitbucket](https://bitbucket.org/lbesson/) or [GitHub](https://github.com/DownRamp/) repository).
  - :signal_strength: Support questions are better asked on [Stack Overflow](https://stackoverflow.com/) and maths questions on [Math Exchange](https://math.stackexchange.com/).
- - :blush: Be nice, civil and polite ([as always](http://contributor-covenant.org/version/1/4/)).
- - :heart_eyes: If you include at least one emoji in your question, the feedback might come faster!
+ - Be nice, civil and polite ([as always](http://contributor-covenant.org/version/1/4/)).
 
 ----
 
@@ -29,7 +28,4 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
  - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/DownRamp/ama)
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/DownRamp/ama/README.md?pixel)](https://GitHub.com/DownRamp/ama/)
 
-[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
